@@ -8,7 +8,7 @@ Projet de data visualisation sur des données ouvertes : analyse des logements s
 
 - Source : https://www.data.gouv.fr/datasets/programmes-de-logements-sociaux-finances-a-paris
 - 4 293 lignes, 18 colonnes, 130 471 logements agréés, 72 bailleurs, de 2001 à 2025
-- Fichier utilisé : `logements_sociaux_paris_clean.csv`
+- Fichier utilisé : `logements_sociaux_paris.csv`
 
 ## Outils
 
